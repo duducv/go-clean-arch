@@ -1,0 +1,1 @@
+cd ../deployments && docker compose up -d
